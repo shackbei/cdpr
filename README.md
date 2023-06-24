@@ -3,6 +3,8 @@ cable driven robot
 
 list of cable robot videos
 https://www.youtube.com/playlist?list=PLBJlG_alCzbVLIQr5_vunUxonmlezZS6t
+https://www.youtube.com/@floatingrobotics8774/videos
+https://www.cnet.com/tech/mobile/facebook-built-a-new-fiber-spinning-robot-to-make-internet-service-cheaper/
 
 opensource cable robot
 http://fae-bot.org/index.php/2019/07/28/fae-bot-will-not-be-a-company-but-an-open-source-project/
@@ -14,3 +16,6 @@ https://www.semanticscholar.org/paper/A-cable-driven-parallel-robot-for-coconut-
 https://aras.kntu.ac.ir/wp-content/uploads/2019/07/2019_MSSP_J_PACR_Ahmad.pdf
 https://core.ac.uk/download/pdf/84309884.pdf
 https://www.researchgate.net/publication/309304167_The_ETH_field_phenotyping_platform_FIP_A_cable-suspended_multi-sensor_system
+https://www.floatingrobotics.com/research/
+https://www.researchgate.net/publication/332283456_The_Rosario_dataset_Multisensor_data_for_localization_and_mapping_in_agricultural_environments
+https://hackaday.io/project/166527-cable-robot
