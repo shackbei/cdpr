@@ -1,4 +1,16 @@
 # cdpr
 cable driven robot
 
+list of cable robot videos
 https://www.youtube.com/playlist?list=PLBJlG_alCzbVLIQr5_vunUxonmlezZS6t
+
+opensource cable robot
+http://fae-bot.org/index.php/2019/07/28/fae-bot-will-not-be-a-company-but-an-open-source-project/
+
+papers:
+https://tapipedia.org/sites/default/files/application_challenges_of_large-scale_wire_robots_in_agricultural_plants.pdf
+https://link.springer.com/chapter/10.1007/978-3-030-75789-2_31
+https://www.semanticscholar.org/paper/A-cable-driven-parallel-robot-for-coconut-farm-Narayanan-Vishnu/3972ca284128c1cae3546251d9abf1cc0fe45d24#citing-papers
+https://aras.kntu.ac.ir/wp-content/uploads/2019/07/2019_MSSP_J_PACR_Ahmad.pdf
+https://core.ac.uk/download/pdf/84309884.pdf
+https://www.researchgate.net/publication/309304167_The_ETH_field_phenotyping_platform_FIP_A_cable-suspended_multi-sensor_system
