@@ -19,3 +19,6 @@ https://www.researchgate.net/publication/309304167_The_ETH_field_phenotyping_pla
 https://www.floatingrobotics.com/research/
 https://www.researchgate.net/publication/332283456_The_Rosario_dataset_Multisensor_data_for_localization_and_mapping_in_agricultural_environments
 https://hackaday.io/project/166527-cable-robot
+
+seilkranen
+https://seilbahn.net/snn/konfig/uploads/pdf/159.pdf
