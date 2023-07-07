@@ -22,3 +22,9 @@ https://hackaday.io/project/166527-cable-robot
 
 seilkranen
 https://seilbahn.net/snn/konfig/uploads/pdf/159.pdf
+
+selbst umstuelpende seilwinde
+https://www.logistics-journal.de/not-reviewed/2023/01/5654/knobloch_2023.pdf
+
+patente
+https://www.technik-bauanleitungen.de/seilwinde-technik.html
