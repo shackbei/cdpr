@@ -28,3 +28,5 @@ https://www.logistics-journal.de/not-reviewed/2023/01/5654/knobloch_2023.pdf
 
 patente
 https://www.technik-bauanleitungen.de/seilwinde-technik.html
+
+https://mega.nz/file/Bk41kawB#WSXpUTHsu76mtuhlxWnF5BR_RSJCU94ezGqUOxY7c_w
